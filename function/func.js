@@ -19,7 +19,7 @@ function greet(name='there'){
     console.log('hi',name)
     }
  greet('ram')  
- greet() 
+ greet()
  // recursion
  function factorial(n){
     if(n==1)
